@@ -18,7 +18,7 @@ Simply download and install the Chrome Extension. Hit "OK" on the dialog box whe
 ## Authors
 
 * **Santiago Cortes** - *Quote Scraping* - [sntgC](https://github.com/sntgC)
-* **Ansh Jain** - *Image Generation* - [Gamebot3](https://github.com/Gamebot3)
+* **Ansh Jain** - *Image Generation* - [Gamebot2](https://github.com/Gamebot2)
 * **Ashwin Kudva** - *Quote Generation, UI* - [shwinay](https://github.com/shwinay)
 * **Amit Joshi** - *ISS Feed Management* - [amitjoshi2724](https://github.com/amitjoshi2724)
 * **Rahul Krishnan** - *UI Development* - [rahulk64](https://github.com/rahulk64)
